@@ -1,0 +1,7 @@
+streamlit
+wordcloud
+matplotlib
+pillow
+numpy
+requests
+beautifulsoup4
